@@ -1,1 +1,4 @@
-# CircleCi-Python1
+#Run the code
+python main.py
+
+#Test the Code
